@@ -7,7 +7,7 @@ One of the most important features of social news sites is the ability of users 
 Our goal is to understand the dynamics of the hierarchical comment system on Reddit and the social factors that drive the online discussion. Specifically, we investigate the following problems: (1) what type of comments receive high attention on social media? - can we predict upvoted and downvoted comments? and (2) what features are the best predictors for high scoring comments?
 
 ## Data Source
-https://www.dropbox.com/home/Content%20Analysis
+- Data: https://www.dropbox.com/home/Content%20Analysis
 -	comment_positive.csv: 2 millions of comments that are highly upvoted
 - comment_negative.csv: 2 millions of comments that are highly downvoted
 
