@@ -4,7 +4,7 @@ Recent years have seen an unprecedented development in the way people communicat
 One of the most important features of social news sites is the ability of users to comment on other’s comments. Unlike comments on most social media where most are listed in flat and chronological order, comments on social news sites are hierarchical. This allows the emergence of more diverse sub-topics, which leads to a more robust and well-formed overall discussion. Hence, it is crucial to understand the relationship within the hierarchical comment system.
 
 ## Our Project
-Our goal is to understand the dynamics of the hierarchical comment system on Reddit and the social factors that drive the online discussion. Specifically, we investigate the following problems: (1) what type of comments receive high attention on social media? - can we predict upvoted and downvoted comments? and (2) what features are the best predictors for high scoring comments?
+Our goal is to understand the dynamics of the hierarchical comment system on Reddit and the social factors that drive the online discussion. Specifically, we investigate the following problems: (1) what type of comments receive higher attention on social media? - can we predict upvoted and downvoted comments? and (2) what features are the best predictors for high scoring comments?
 
 ## Data Source
 - Data: https://www.dropbox.com/home/Content%20Analysis
