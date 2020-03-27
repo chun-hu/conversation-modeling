@@ -1,4 +1,4 @@
-# conversation-modeling
+# Hierarchical
 
 Recent years have seen an unprecedented development in the way people communicate and obtain information. Consumption of traditional news media is declining while social media has become the main source of news online. Reddit is one of the most visited sites in the U.S. and in the world.
 
